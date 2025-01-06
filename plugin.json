@@ -1,11 +1,7 @@
 [
     {
         "name": "Media Manager",
-        "repo": "https://github.com/tinytechlabuk/php-ef-media-manager"
-    },
-    {
-        "name": "Log Viewer",
-        "repo": "https://github.com/tinytechlabuk/php-ef-log-viewer-plugin"
+        "repo": "https://github.com/php-ef/plugin-media-manager"
     },
     {
         "name": "CMDB",
@@ -13,6 +9,10 @@
     },
     {
         "name": "VeeamPlugin",
-        "repo": "https://github.com/PHP-EF/plugin-veeam-b-r"
+        "repo": "https://github.com/php-ef/plugin-veeam-b-r"
+    },
+    {
+        "name": "Log Viewer",
+        "repo": "https://github.com/tinytechlabuk/php-ef-log-viewer-plugin"
     }
 ]
