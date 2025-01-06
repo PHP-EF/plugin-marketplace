@@ -10,5 +10,9 @@
     {
         "name": "CMDB",
         "repo": "https://github.com/php-ef/plugin-cmdb"
+    },
+    {
+        "name": "VeeamPlugin",
+        "repo": "https://github.com/PHP-EF/plugin-veeam-b-r"
     }
 ]
