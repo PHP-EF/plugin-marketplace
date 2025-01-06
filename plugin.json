@@ -1,14 +1,14 @@
 [
     {
-    "name": "Media Manager",
-    "repo": "https://github.com/tinytechlabuk/php-ef-media-manager",
+        "name": "Media Manager",
+        "repo": "https://github.com/tinytechlabuk/php-ef-media-manager"
     },
     {
-      "name": "Log Viewer",
-      "repo": "https://github.com/tinytechlabuk/php-ef-log-viewer-plugin",
+        "name": "Log Viewer",
+        "repo": "https://github.com/tinytechlabuk/php-ef-log-viewer-plugin"
     },
     {
-      "name": "CMDB",
-      "repo": "https://github.com/php-ef/plugin-cmdb",
+        "name": "CMDB",
+        "repo": "https://github.com/php-ef/plugin-cmdb"
     }
 ]
