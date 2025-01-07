@@ -13,6 +13,10 @@
     },
     {
         "name": "Log Viewer",
-        "repo": "https://github.com/tinytechlabuk/php-ef-log-viewer-plugin"
+        "repo": "https://github.com/PHP-EF/plugin-log-viewer"
+    },
+    {
+        "name": "Ansible AWX",
+        "repo": https://github.com/PHP-EF/plugin-awx"
     }
 ]
