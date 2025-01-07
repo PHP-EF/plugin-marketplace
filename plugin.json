@@ -17,6 +17,6 @@
     },
     {
         "name": "Ansible AWX",
-        "repo": https://github.com/PHP-EF/plugin-awx"
+        "repo": "https://github.com/PHP-EF/plugin-awx"
     }
 ]
