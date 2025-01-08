@@ -16,7 +16,7 @@
         "repo": "https://github.com/PHP-EF/plugin-log-viewer"
     },
     {
-        "name": "Ansible AWX",
+        "name": "awx",
         "repo": "https://github.com/PHP-EF/plugin-awx"
     }
 ]
